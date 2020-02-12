@@ -1,10 +1,10 @@
 # COLOR SENSOR USING A LDR
 
-Aim:
+# Aim:
 
 The aim is to develop a color sensor that is LDR (Light Dependent Resistor) based. The color sensor must be able to identify three primary colors: Red, Green and Blue.
 
-Components Required:
+# Components Required:
 
 - LDR - 1
 - RGB LED - 1
@@ -15,7 +15,7 @@ Components Required:
 - 1k Resistors - 4
 - Microcontroller (Arduino UNO)
 
-Theory:
+# Theory:
 
 ![image](https://user-images.githubusercontent.com/60843485/74340524-0b82a580-4dcc-11ea-8b59-6cfb23ab76da.png)
 
@@ -23,7 +23,7 @@ LDR stands for Light Dependent Resistor, which is a passive electronic component
 
 Our job here is to develop the LDR in such a way that it is able to detect the basic colors i.e. Red, Green and Blue.
 
-Procedure:
+# Procedure:
 
 THE CODE HAS BEEN ATTACHED. PLEASE DO REFER.
 
@@ -32,11 +32,12 @@ THE CODE HAS BEEN ATTACHED. PLEASE DO REFER.
 3. Now develop a code such that the LDR detects the color in the observed range of operating voltages.
 4. Now connect the Red, Blue and Green LED&#39;s such that when the RGB is Red in color, the Red LED should glow. Similarly do it for the other two colors. The LED color indicates the reading of the LDR.
 
-Result:
+# Result:
 
 It is observed that when the RGB is Red, the Red LED glows and the same occurs for the rest of the colors. Therefore we developed a code for the LDR to detect colors of Red, Green and Blue.
 
-Applications:
+# Applications:
 
 - Street lights: The working principle of LDR is that it gives less resistance in high light intensity and high resistance in low light intensity i.e. it gives high resistance in dark or night and low resistance in day or light. Here we use transistor as a two way switch.
+
 - These devices are used where there is a need to sense the presence and absence of light is necessary. These resistors are used as light sensors and the applications of LDR mainly include alarm clocks, street lights, light intensity meters, burglar alarm circuits.
