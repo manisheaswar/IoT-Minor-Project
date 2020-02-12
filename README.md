@@ -6,13 +6,13 @@ The aim is to develop a color sensor that is LDR (Light Dependent Resistor) base
 
 Components Required:
 
-- LDR  1
-- RGB LED  1
-- Red LED  1
-- Green LED  1
-- Blue LED  1
+- LDR - 1
+- RGB LED - 1
+- Red LED - 1
+- Green LED - 1
+- Blue LED - 1
 - Few Jumper wires
-- 1k Resistors  4
+- 1k Resistors - 4
 - Microcontroller (Arduino UNO)
 
 Theory:
