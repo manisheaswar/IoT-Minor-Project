@@ -17,6 +17,8 @@ Components Required:
 
 Theory:
 
+![LDR Connection](https://www.google.com/search?q=ldr+and+arduino+connection+circuit&rlz=1C1PRFC_enIN782IN782&sxsrf=ACYBGNR5hhEIzwqcE7omhZ16LbR4XV0K7Q:1581514676490&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjM9f6jkcznAhUJ7XMBHfV1DaIQ_AUoAXoECA4QAw&biw=1366&bih=657#imgrc=iwoELHliupVN0M)
+
 LDR stands for Light Dependent Resistor, which is a passive electronic component, basically a resistor which has a resistance that varies depending of the light intensity. The resistance of a photoresistor decreases with increase in incident light intensity; in other words, it exhibits photoconductivity.
 
 Our job here is to develop the LDR in such a way that it is able to detect the basic colors i.e. Red, Green and Blue.
